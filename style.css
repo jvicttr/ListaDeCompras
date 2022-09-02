@@ -17,6 +17,10 @@ header {
     font-size: 40px;
 }
 
+.aviso {
+    text-align: center;
+}
+
 .lista-cadastro {
     align-content: center;
     max-width: 888px;
