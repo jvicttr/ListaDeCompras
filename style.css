@@ -95,6 +95,11 @@ h3.price-produto>span {
         font-size: 25px;
         padding: 45px;
     }
+    
+     .aviso {
+        padding: 20px;
+        text-align: center;
+    }
 
     .lista-cadastro {
         align-content: center;
